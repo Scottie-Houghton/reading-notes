@@ -7,3 +7,5 @@ Since graduating from the University of Washington in 2004, I have gained experi
 In my free time, I enjoy attending live shows at my favorite music venues and hanging out with friends at our local haunts in my neighborhood (sometimes while singing karaoke). During the Spring and Summer, I can be found camping or watching my beloved Mariners at the ballpark. While in the Fall and Winter, I look forward to bowling every Tuesday on my league or finding pub trivia nights to test my knowledge.
 
 ## What does *Growth Mindset* mean to me?
+
+While someone may be inherently intelligent or talented at something, everyone has the potential to develop their knowledge and gain new abilities. Through dedication and hard work, anyone can achieve their goals.
