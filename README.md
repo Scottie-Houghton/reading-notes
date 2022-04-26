@@ -19,4 +19,4 @@ When thinking about *Growth Mindset* I appreciated learning this quote from **Al
 2. We're all learning and growing in this world; be inspired by those around you and help each other reach your goals.
 3. Success requires effort; no pain, no gain.
 
-This was my first site built during my time in the Code Fellows program. It can be found along with all my other projects at my [GitHub site](https://github.com/Scottie-Houghton/).
+This was my first site built during my time in the Code Fellows program. It can be found along with all my other projects at my [GitHub portfolio page](https://github.com/Scottie-Houghton/).
