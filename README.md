@@ -6,6 +6,8 @@ Since graduating from the University of Washington in 2004, I have gained experi
 
 In my free time, I enjoy attending live shows at my favorite music venues and hanging out with friends at our local haunts in my neighborhood (sometimes while singing karaoke). During the Spring and Summer, I can be found camping or watching my beloved Mariners at the ballpark. While in the Fall and Winter, I look forward to bowling every Tuesday on my league or finding pub trivia nights to test my knowledge.
 
+<br/>
+
 ## What does *Growth Mindset* mean to me?
 
 While someone may be inherently intelligent or talented at something, everyone has the potential to develop their knowledge and gain new abilities. Through dedication and hard work, anyone can achieve their goals.
@@ -18,5 +20,7 @@ When thinking about *Growth Mindset*, I appreciated learning this quote from **A
 1. Sometimes the best way to learn is to fix something that's broken; especially when you're the one who broke it.
 2. We're all learning and growing in this world; be inspired by those around you and help each other reach your goals.
 3. Success requires effort; no pain, no gain.
+
+<br/><br/>
 
 This was my first site built during my time in the Code Fellows program. It can be found along with all my other projects at my [GitHub portfolio page](https://github.com/Scottie-Houghton/).
