@@ -10,6 +10,9 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 
 ### Table of Contents
 1. [Class 1 Reading Notes](class1.md)
+2. Class 2 Reading Notes
+3. Class 3 Reading Notes
+4. Class 4 Reading Notes
 
 <br/><br/>
 
