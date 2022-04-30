@@ -13,7 +13,7 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 2. [Class 2: The Coder's Computer - Reading Notes](class2.md)
 3. [Class 3: Git/GitHub - Reading Notes](class3.md)
 4. [Class 4: HTML - Reading Notes](class4.md)
-5. Class 5: CSS - Reading Notes
+5. [Class 5: CSS - Reading Notes](class5.md)
 6. Class 6: JavaScript - Reading Notes
 7. Class 7: Functions - Reading Notes
 8. Class 8: Loops - Reading Notes

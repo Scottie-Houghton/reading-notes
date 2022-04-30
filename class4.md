@@ -6,7 +6,7 @@ A wireframe is an outline of a website with all the content missing along with t
 
 # What is HTML?
 
-HTML is like the skeleton of a website. It is the structure the content is placed in, so that the content appears or acts in a certain way. A line of HTML code is called an **element**. To do something to content within an element, you need to surround it with tags; an **opening tag** and a **closing tab**
+HTML (which stands for Hypertext Markup Language) is like the skeleton of a website. It is the structure the content is placed in, so that the content appears or acts in a certain way. A line of HTML code is called an **element**. To do something to content within an element, you need to surround it with tags; an **opening tag** and a **closing tab**
 
 # Common Tags
 ------------------
