@@ -11,11 +11,19 @@ HTML is like the skeleton of a website. It is the structure the content is place
 # Common Tags
 ------------------
 `<h1>``</h>` = heading level `(6 total)`
+
 `<p>``</p>` = paragraph
+
 `<ul>``</ul>` = unordered list
+
 `<ol>``</ol>` = ordered list
+
 `<li>``</li>` = list item
+
 `<i>``</i>` = italicized
+
 `<strong>``</strong>` = bold
+
 `<a href="">``</a>` = anchor/link `(link in quotes)`
+
 `<img src="">` = image `(image link in quotes; no closing tag)`
