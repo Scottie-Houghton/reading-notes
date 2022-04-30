@@ -12,7 +12,7 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 1. [Class 1: Growth Mindset - Reading Notes](class1.md)
 2. [Class 2: The Coder's Computer - Reading Notes](class2.md)
 3. [Class 3: Git/GitHub - Reading Notes](class3.md)
-4. Class 4: HTML - Reading Notes
+4. [Class 4: HTML - Reading Notes](class4.md)
 5. Class 5: CSS - Reading Notes
 6. Class 6: JavaScript - Reading Notes
 7. Class 7: Functions - Reading Notes
