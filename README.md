@@ -9,10 +9,14 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 <br/>
 
 ### Table of Contents
-1. [Class 1 Reading Notes](class1.md)
-2. Class 2 Reading Notes
-3. Class 3 Reading Notes
-4. Class 4 Reading Notes
+1. [Class 1: Growth Mindset - Reading Notes](class1.md)
+2. [Class 2: The Coder's Computer - Reading Notes](class2.md)
+3. Class 3: Git/GitHub - Reading Notes
+4. Class 4: HTML - Reading Notes
+5. Class 5: CSS - Reading Notes
+6. Class 6: JavaScript - Reading Notes
+7. Class 7: Functions - Reading Notes
+8. Class 8: Loops - Reading Notes
 
 <br/><br/>
 
