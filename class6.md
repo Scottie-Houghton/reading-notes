@@ -6,7 +6,7 @@ If HTML is the skeleton, and CSS is the skin, Javascript are the muscles. JavaSc
 
 # Variables
 
-What are variables? Well, they are basically just labels given to a container that stores data. Creating a variable in JavaScript is called "declaring." This is done with the command `var`, `let` or `const`. After the command, you need to give the variable a name (preceded by a space), which is called the identifer.
+What are variables? Well, they are basically just labels given to a container that stores data. Creating a variable in JavaScript is called **declaring**. This is done with the command `var`, `let` or `const`. After the command, you need to give the variable a name (preceded by a space), which is called the **identifer**.
 
 ## Identifier Naming Convention
 * `$` and `_` are considered letters in JavaScript
@@ -19,9 +19,9 @@ What are variables? Well, they are basically just labels given to a container th
 
 In JavaScript, `=` is not what we thing of in math as "equal to;" it is known as an assignment operator. If you declare a variable, but don't use the assignment operator and give it a value, the variable is `undefined`. As you can see in the following example, the first variable is `undefined` and the one has a value of 10 (note that you also have to follow declarations with a semi-colon):
 
-> let x;
+>let x;
 >
-> let y = 8 + 2
+>let y = 8 + 2
 
 ## JavaScript Data Types
 

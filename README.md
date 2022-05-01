@@ -15,7 +15,7 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 4. [Class 4: HTML - Reading Notes](class4.md)
 5. [Class 5: CSS - Reading Notes](class5.md)
 6. [Class 6: JavaScript - Reading Notes](class6.md)
-7. Class 7: Functions - Reading Notes
+7. [Class 7: Functions - Reading Notes](class7.md)
 8. Class 8: Loops - Reading Notes
 
 <br/><br/>
