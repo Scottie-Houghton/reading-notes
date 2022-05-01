@@ -17,4 +17,11 @@ What are variables? Well, they are basically just labels given to a container th
 
 ## The Assignment Operator
 
-In JavaScript, `=` is not what we thing of in math as "equal to;" it is known as an assignment operator. If you declare a variable, but don't use the assignment operator and give it a value, the variable is `undefined`. As you can see in the following example, the first variable is `undefined` and the one has a value of 10:
+In JavaScript, `=` is not what we thing of in math as "equal to;" it is known as an assignment operator. If you declare a variable, but don't use the assignment operator and give it a value, the variable is `undefined`. As you can see in the following example, the first variable is `undefined` and the one has a value of 10 (note that you also have to follow declarations with a semi-colon):
+
+> let x;
+> let y = 8 + 2
+
+## JavaScript Data Types
+
+JavaScript variables can hold number values and text values. Text values are called **text strings** in programming. Strings are put in quotes and numbers are not. A number will be treated as a text string if you put it in quotes. As you saw in the example above, you can assign a value by doing math. If you add text strings to create a value, they will be concatenated (aka no space).
