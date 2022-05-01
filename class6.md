@@ -20,6 +20,7 @@ What are variables? Well, they are basically just labels given to a container th
 In JavaScript, `=` is not what we thing of in math as "equal to;" it is known as an assignment operator. If you declare a variable, but don't use the assignment operator and give it a value, the variable is `undefined`. As you can see in the following example, the first variable is `undefined` and the one has a value of 10 (note that you also have to follow declarations with a semi-colon):
 
 > let x;
+>
 > let y = 8 + 2
 
 ## JavaScript Data Types

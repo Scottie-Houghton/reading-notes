@@ -11,8 +11,11 @@ Being a rule-based language, in CSS you identify an element or group of elements
 For example, if you wanted to change the color of text to green in every paragraph and make them bold, it would look like this:
 
 > p {
+>
 >    color: green;
+>
 >    font-weight: bolder;
+>
 > }
 
 Let's break this down:
