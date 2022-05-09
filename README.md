@@ -8,7 +8,7 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 
 <br/>
 
-### Table of Contents
+### Code 102 Reading Notes: Table of Contents
 1. [Class 1: Growth Mindset - Reading Notes](class1.md)
 2. [Class 2: The Coder's Computer - Reading Notes](class2.md)
 3. [Class 3: Git/GitHub - Reading Notes](class3.md)
@@ -17,6 +17,25 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 6. [Class 6: JavaScript - Reading Notes](class6.md)
 7. [Class 7: Functions - Reading Notes](class7.md)
 8. [Class 8: Loops - Reading Notes](class8.md)
+
+<br/>
+
+### Code 201 Reading Notes: Table of Contents
+1. Reading Assignment: Day 1
+2. Reading Assignment: Day 2
+3. Reading Assignment: Day 3
+4. Reading Assignment: Day 4
+5. Reading Assignment: Day 5
+6. Reading Assignment: Day 6
+7. Reading Assignment: Day 7
+8. Reading Assignment: Day 8
+9. Reading Assignment: Day 9
+10. Reading Assignment: Day 10
+11. Reading Assignment: Day 11
+12. Reading Assignment: Day 12
+13. Reading Assignment: Day 13
+14. Reading Assignment: Day 14
+15. Reading Assignment: Day 15
 
 <br/><br/>
 
