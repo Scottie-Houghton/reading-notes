@@ -8,6 +8,11 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 
 <br/>
 
+## Things I want to know more about
+* 
+
+<br/>
+
 ### Code 102 Reading Notes: Table of Contents
 1. [Class 1: Growth Mindset - Reading Notes](class1.md)
 2. [Class 2: The Coder's Computer - Reading Notes](class2.md)
