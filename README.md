@@ -28,7 +28,7 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 ### Code 201 Reading Notes: Table of Contents
 1. [Reading Assignment: Day 1](201-class-01.md)
 2. [Reading Assignment: Day 2](201-class-02.md)
-3. Reading Assignment: Day 3
+3. [Reading Assignment: Day 3](201-class-03.md)
 4. Reading Assignment: Day 4
 5. Reading Assignment: Day 5
 6. Reading Assignment: Day 6
