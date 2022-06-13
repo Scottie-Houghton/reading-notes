@@ -35,7 +35,24 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 12. [Reading Assignment: Day 12](201-class-12.md)
 13. [Reading Assignment: Day 13](201-class-13.md)
 14. [Reading Assignment: Day 14](201-class-14.md)
-15. Reading Assignment: Day 15
+
+<br/>
+
+### Code 301 Reading Notes: Table of Contents
+1. [Reading Assignment: Day 1](301-class-01.md)
+2. Reading Assignment: Day 2
+3. Reading Assignment: Day 3
+4. Reading Assignment: Day 4
+5. Reading Assignment: Day 5
+6. Reading Assignment: Day 6
+7. Reading Assignment: Day 7
+8. Reading Assignment: Day 8
+9. Reading Assignment: Day 9
+10. Reading Assignment: Day 10
+11. Reading Assignment: Day 11
+12. Reading Assignment: Day 12
+13. Reading Assignment: Day 13
+14. Reading Assignment: Day 14
 
 <br/><br/>
 
