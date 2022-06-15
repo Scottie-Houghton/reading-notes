@@ -40,7 +40,7 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 
 ### Code 301 Reading Notes: Table of Contents
 1. [Reading Assignment: Day 1](301-class-01.md)
-2. Reading Assignment: Day 2
+2. [Reading Assignment: Day 2](301-class-02.md)
 3. Reading Assignment: Day 3
 4. Reading Assignment: Day 4
 5. Reading Assignment: Day 5
