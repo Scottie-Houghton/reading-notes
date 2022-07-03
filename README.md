@@ -52,7 +52,7 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 11. [Reading Assignment: Day 11](301-class-11.md)
 12. [Reading Assignment: Day 12](301-class-12.md)
 13. [Reading Assignment: Day 13](301-class-13.md)
-14. Reading Assignment: Day 14
+14. [Reading Assignment: Day 14](301-class-14.md)
 15. Reading Assignment: Day 15
 
 <br/><br/>
