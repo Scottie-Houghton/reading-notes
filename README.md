@@ -55,6 +55,11 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 14. [Reading Assignment: Day 14](301-class-14.md)
 15. [Reading Assignment: Day 15](301-class-15.md)
 
+<br/>
+
+### Code 401 Reading Notes: Table of Contents
+
+
 <br/><br/>
 
 This was my first site built during my time in the Code Fellows program. It can be found along with all my other projects at my [GitHub portfolio page](https://github.com/Scottie-Houghton/).
