@@ -59,6 +59,7 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 
 ### Code 401 Reading Notes: Table of Contents
 [Prep: Introduction to SQL](prep-401-introduction-to-sql.md)
+[Prep: Practice in the Terminal](prep-401-terminal-practice.md)
 
 <br/><br/>
 
