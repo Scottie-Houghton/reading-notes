@@ -58,8 +58,10 @@ In my free time, I enjoy attending live shows at my favorite music venues and ha
 <br/>
 
 ### Code 401 Reading Notes: Table of Contents
-[Prep: Introduction to SQL](prep-401-introduction-to-sql.md)
-[Prep: Practice in the Terminal](prep-401-terminal-practice.md)
+[Prep: Introduction to SQL](prep-401-introduction-to-sql.md)<br/>
+[Prep: Practice in the Terminal](prep-401-terminal-practice.md)<br/>
+[Prep: The Growth Mindset](prep-401-growth-mindset.md)
+1. Reading Assignment: Day 1
 
 <br/><br/>
 

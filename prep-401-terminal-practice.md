@@ -5,3 +5,15 @@
 
 ## Basic Navigation
 * 
+
+## More About Files
+* 
+
+## Manual Pages
+* 
+
+## File Manipulation
+* 
+
+## Cheat Sheet
+* 
